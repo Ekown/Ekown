@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Eron Tancioco
-#### I'm a Junior Software Engineer @ CRMOnline Philippines Inc.
+#### I'm an Associate Software Engineer @ CRMOnline Philippines Inc.
 I just want to code, learn, and try new fun things.
 
 Skills: LARAVEL / JS / HTML / CSS / SUGARCRM / ANGULAR
