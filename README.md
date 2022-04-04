@@ -2,7 +2,7 @@
 #### I'm an Associate Software Engineer @ CRMOnline Philippines Inc.
 I just want to code, learn, and try new fun things.
 
-Skills: LARAVEL / JS / HTML / CSS / SUGARCRM / ANGULAR
+Skills: LARAVEL / JS / HTML / CSS / SUGARCRM / ANGULAR / react
 
 - 🔭 I’m currently working on https://github.com/Ekown/ekown.github.io
 - 📫 How to reach me: tancioco.eron@gmail.com 
