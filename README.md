@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Eron Tancioco
-#### I'm an Associate Software Engineer @ CRMOnline Philippines Inc.
+#### I'm a Senior Software Engineer @ CRMOnline Philippines Inc.
 I just want to code, learn, and try new fun things.
 
 Skills: LARAVEL / JS / HTML / CSS / SUGARCRM / ANGULAR / REACT
 
-- 🔭 I’m currently working on https://github.com/Ekown/ekown.github.io
+- 🔭 I’m currently working on https://github.com/Ekown/grocery-tracker
 - 📫 How to reach me: tancioco.eron@gmail.com 
 - ⚡ Fun fact: I'm a ONCE (TWICE fan) <3 since 2017 
 
