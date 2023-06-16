@@ -4,7 +4,7 @@ I just want to code, learn, and try new fun things.
 
 Skills: LARAVEL / JS / HTML / CSS / SUGARCRM / ANGULAR / REACT
 
-- 🔭 I’m currently working on https://github.com/Ekown/grocery-tracker
+- 🔭 I’m currently working on https://github.com/Ekown/ekown.github.io
 - 📫 How to reach me: tancioco.eron@gmail.com 
 - ⚡ Fun fact: I'm a ONCE (TWICE fan) <3 since 2017 
 
