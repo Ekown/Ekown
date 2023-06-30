@@ -2,9 +2,9 @@
 #### I'm a Senior Software Engineer @ CRMOnline Philippines Inc.
 I just want to code, learn, and try new fun things.
 
-Skills: LARAVEL / JS / HTML / CSS / SUGARCRM / ANGULAR / REACT
+Skills: LARAVEL / JS / HTML / CSS / PHP / REACT
 
-- 🔭 I’m currently working on https://github.com/Ekown/ekown.github.io
+- 🔭 I’m currently working on https://github.com/mikmcelroy1/PriceMe
 - 📫 How to reach me: tancioco.eron@gmail.com 
 - ⚡ Fun fact: I'm a ONCE (TWICE fan) <3 since 2017 
 
